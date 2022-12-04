@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.border-story {
+  border: 1px solid #dbdbdb;
+}
+
+.story-profile {
+  height: 70px;
+}
+
+.image-feed {
+  height: 30px;
+}
