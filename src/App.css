@@ -48,3 +48,25 @@
 .image-feed {
   height: 30px;
 }
+
+.border-gradient {
+  border: 4px solid pink;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 50%;
+}
+
+.nav-bottom {
+  padding: 8px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.limit-string {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
