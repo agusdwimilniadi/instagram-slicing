@@ -33,7 +33,7 @@ const Landing = () => {
       <section id="story">
         <div className="container">
           <div className="row">
-            <div className="col-6 offset-3 ">
+            <div className="col-md-6 offset-md-3 ">
               <div className="row bg-white">
                 <div className="col-md-12 mt-3 rounded border-story">
                   <div style={{ overflow: "auto", whiteSpace: "nowrap" }}>
